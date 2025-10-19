@@ -1,0 +1,71 @@
+# Virtual environment
+venv/
+
+# Folders
+etc/
+Include/
+Lib/
+Scripts/
+share/
+
+freeze
+pyvenv.cfg
+
+# Byte-compiled Python files
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+
+# Editor/IDE specific files
+.vscode/
+.idea/
+
+# Operating system specific files
+.DS_Store
+Thumbs.db
+
+# Other common ignored files
+*.log
+*.sqlite3
+
+# Byte-code files
+*.pyc
+__pycache__/
+*.so
+*.egg
+*.egg-info/
+.eggs/
+
+# Virtual environment
+.venv/
+venv/
+env/
+/site/
+
+# Editor/IDE files
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
+
+# Temporary files
+*.log
+*.tmp
+*.bak
+
+# Distribution / build files
+dist/
+build/
+*.whl
+
+# Data files (if not intended for version control)
+*.sqlite3
+*.db
+*.csv
+*.json
+*.env
+
+# Notebook checkpoints
+.ipynb_checkpoints/
